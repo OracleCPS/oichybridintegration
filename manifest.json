@@ -1,0 +1,80 @@
+{
+    "workshop": {
+        "title": "Cloud Accelerate: OIC (ICS) Developer Workshop",
+        "description": "A hands-on event to explore Oracle’s Integration Cloud.",
+        "theme": "ttc",
+        "interactive": "https://launch.oracle.com/?ttcicsdeveloper",
+        "labs": [{
+                "number": "1",
+                "filename": "Home.md",
+                "title": "Home",
+                "description": "Welcome to the OIC Integration workshop"
+            },{
+                "number": "10",
+                "filename": "StudentGuide.md",
+                "title": "Prerequisites",
+                "description": "Workshop guidance and prerequisites"
+            },
+            {
+                "number": "50",
+                "filename": "ics000.md",
+                "title": "Lab Zero: Full Workshop Solution",
+                "description": "This lab will provide a walkthrough of the full solution for the Hands-on Workshop."
+            },
+            {
+                "number": "100",
+                "filename": "ics100.md",
+                "title": "Lab 100: Exploring ICS",
+                "description": "This lab will expose you to the functionality in OIC Integration."
+            },
+            {
+                "number": "200",
+                "filename": "ics200.md",
+                "title": "Lab 200: Basic ICS Development",
+                "description": "In this Lab we are going to build a 'hello world' echo service."
+            },
+            {
+                "number": "300",
+                "filename": "ics300.md",
+                "title": "Lab 300: Database Integration",
+                "description": "In this Lab we are going to develop an integration into an on-premesis backend database system using an OIC Integration orchestration."
+            },
+            {
+                "number": "400",
+                "filename": "ics400.md",
+                "title": "Lab 400: EBS Integration",
+                "description": "In this Lab we are going to create an integration into an on-premesis backend EBS system using an OIC Integration orchestration."
+            },
+            {
+                "number": "500",
+                "filename": "ics500.md",
+                "title": "Lab 500: Create Approval Workflow to process orders",
+                "description": "In this Lab we are going to use AIC Process Automation capability to implement a Business Process that will be triggered for Declined orders from process orders web service call."
+            },
+            {
+                "number": "600",
+                "filename": "ics600.md",
+                "title": "Lab 600: Add ABCS Screen to Trigger Process Order Web Service",
+                "description": "In this Lab we are going to use AIC ABCS to create a UI, then call Process Orders Web Service."
+            },
+            {
+                "number": "700",
+                "filename": "ics700.md",
+                "title": "Lab 700: Add ABCS logic to Trigger Approval Workflow",
+                "description": "In this Lab we are going to use AIC ABCS to invoke Approval Workflow when a Declined Order is returned from Web Service call"
+            },
+            {
+                "number": "800",
+                "filename": "ics800.md",
+                "title": "Lab 800: API Management Lab, Add Process Order web service to APIPCS",
+                "description": "In this Lab we are going to use APIPCS to add an API for Process Orders Web Service and secure the API using Policies."
+            },
+            {
+                "number": "900",
+                "filename": "ics900.md",
+                "title": "Lab 900: Integration Analytics Implementation",
+                "description": "In this Lab we are going to implement an Integration Analytics Model with Milestones for Process Orders Integration Flow."
+            }
+        ]
+    }
+}
