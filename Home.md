@@ -4,8 +4,8 @@
 
 > Updated: March 13th, 2018
 
-## Journey To The Cloud: Oracle Integration Cloud (OIC) - Enterprise Integration Hands On Lab
-A hands-on workshop to dive into development on Oracle's Integration Cloud Platform
+## Upgrade To The Cloud: Oracle Autonomous Integration Cloud (AIC) Hands-on Workshop
+A hands-on workshop to dive into development on Oracle's Autonomous Integration Cloud Platform
 
 ## Overview
 Enterprises can innovate faster, improve customer engagement, drive business-process efficiency, and accelerate digital transformation with Oracle Cloud. Oracle is the enterprise technology partner that positions companies for tomorrow, today; empowering businesses of all sizes on their journey of digital transformation. Oracle Cloud provides leading-edge capabilities in software as a service, platform as a service, infrastructure as a service, and data as a service.
