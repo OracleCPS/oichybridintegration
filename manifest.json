@@ -1,25 +1,19 @@
 {
     "workshop": {
-        "title": "Cloud Accelerate: OIC (ICS) Developer Workshop",
-        "description": "A hands-on event to explore Oracle’s Integration Cloud.",
+        "title": "Cloud Accelerate: Oracle Autonomous Integration Cloud (AOIC) Developer Workshop",
+        "description": "A hands-on event to explore Oracle’s Autonomous Integration Cloud.",
         "theme": "ttc",
         "interactive": "https://launch.oracle.com/?ttcicsdeveloper",
         "labs": [{
                 "number": "1",
                 "filename": "Home.md",
                 "title": "Home",
-                "description": "Welcome to the OIC Integration workshop"
+                "description": "Welcome to the Oracle Autonomous Integration Cloud (AOIC) Integration workshop"
             },{
                 "number": "10",
                 "filename": "StudentGuide.md",
                 "title": "Prerequisites",
                 "description": "Workshop guidance and prerequisites"
-            },
-            {
-                "number": "50",
-                "filename": "ics000.md",
-                "title": "Lab Zero: Full Workshop Solution",
-                "description": "This lab will provide a walkthrough of the full solution for the Hands-on Workshop."
             },
             {
                 "number": "100",
