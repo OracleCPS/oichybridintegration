@@ -36,11 +36,11 @@ To install Postman for testing the API Developement follow these instructions:
 -Download the Postman application for your desktop/laptop from the URL:
 <https://www.getpostman.com/>
 
-![](images/studentguide/postmanImage1.png)
+![](images/studentguide/postmanImage01.png)
 
 -Select "Download the App" from the home page
 
-![](images/studentguide/postmanImage2.png)
+![](images/studentguide/postmanImage02.png)
 
 -  Select the platform that correlates to your machine
 
