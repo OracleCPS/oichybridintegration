@@ -1,10 +1,10 @@
-# OIC (ICS) Developer Workshop
+# Oracle Autonomous Integration Cloud (OAIC) Developer Workshop
 
 ![](images/j2c-logo.png)
 
-> Updated: March 13th, 2018
+> Updated: July 31st, 2018
 
-## Upgrade To The Cloud: Oracle Autonomous Integration Cloud (AIC) Hands-on Workshop
+## Upgrade To The Cloud: Oracle Autonomous Integration Cloud (OAIC) Hands-on Workshop
 A hands-on workshop to dive into development on Oracle's Autonomous Integration Cloud Platform
 
 ## Overview
@@ -12,17 +12,18 @@ Enterprises can innovate faster, improve customer engagement, drive business-pro
 
 At Oracle we have invested in delivering a plethora of new Cloud Services and we want to show you how simple – yet powerful they are. We specifically wanted to focus on low code, high productivity services that can be used in building enterprise grade solutions. We believe the best way to do this is to showcase a real world business solution comprised of these services. You will build the entire solution during the course of this workshop all in a stress-free fun environment. 
 
-This workshop will focus on the Integration Cloud Service (ICS) capabilities within Oracle Integration Cloud (OIC).  Oracle ICS delivers best in class “Hybrid” Integration. ICS is a simple and powerful integration platform in the cloud to maximize the value of your investments in SaaS and on-premises applications. 
+This workshop will focus on the following solution capabilities within Oracle Autonomous Integration Cloud (OIC).  
+- Oracle Integration Capability delivers best in class “Hybrid” Integration. ICS is a simple and powerful integration platform in the cloud to maximize the value of your investments in SaaS and on-premises applications
+- Oracle Process Automation Capability with an easy, visual, low-code process automation platform that simplifies day to day tasks by getting employees, customers, and partners the services they need to work anywhere, anytime, and on any device
+- Oracle Visual Builder Capability to rapidly create and host engaging business applications with a visual development environment right from the comfort of your browser. 
 
-It includes an intuitive web based integration designer for point and click integration between applications and a rich monitoring dashboard that provides real-time insight into the transactions, all running on a mature runtime platform on Oracle Public Cloud. ICS will help accelerate integration projects and significantly shorten the time-to-market through it's intuitive and simplified designer, an intelligent data mapper, and a library of adapters to connect to various applications.
+## About OAIC:
 
-## About OIC:
-
-Oracle Integration Cloud (OIC) brings together all the critical capabilities of a complete Application Integration, Process Automation, Visual Application Building and Integration Analytics solution into a single unified cloud service. Oracle Integration Cloud now brings real-time and batch based integration, structured and unstructured processes, case management, stream analytics, zero code integration insight etc, allowing customers to service all their end to end integration needs in one cohesive platform so that all users can now transition and collaborate across these capabilities and projects seamlessly.
+Oracle Autonomous Integration Cloud (OAIC) brings together all the critical capabilities of a complete Application Integration, Process Automation, Visual Application Building and Integration Analytics solution into a single unified cloud service. Oracle Integration Cloud now brings real-time and batch based integration, structured and unstructured processes, case management, stream analytics, zero code integration insight etc, allowing customers to service all their end to end integration needs in one cohesive platform so that all users can now transition and collaborate across these capabilities and projects seamlessly.
 
 ![](images/oic.png)
 
-### Oracle Integration Cloud Features
+### Oracle Autonomous Integration Cloud Features
 
 - Integrate Applications - Deliver integrations up to 6X faster with pre-built adapters for your SaaS and on-premises systems.
 
@@ -34,10 +35,12 @@ Oracle Integration Cloud (OIC) brings together all the critical capabilities of 
 
 ## Hands-on Lab Overview
 This hands-on lab will allow participants to do the following:
-- Lab 100 - Explore Oracle Integration Cloud Service
+- Lab 100 - Explore Oracle Autonomous Integration Cloud Service
 - Lab 200 - Create a simple Hello World API echo service
 - Lab 300 - Create an API to retrieve enterprise information from an On-Premise Oracle Database using OIC Connectivity Agent
 - Lab 400 - Implement an Order API to create Orders in an On-Premise Enterprise Application (Oracle EBusiness Suite)
+- Lab 500 - Create Approval Workflow to process orders
+- Lab 600 - Add ABCS Screen to Trigger Process Order Web Service
 
 The ICS integration that we'll be working with is shown in the following picture:
 
