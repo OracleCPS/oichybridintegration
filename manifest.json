@@ -48,26 +48,8 @@
             {
                 "number": "600",
                 "filename": "ics600.md",
-                "title": "Lab 600: Add VBCS Screen to Trigger Process Order Web Service",
-                "description": "In this Lab we are going to use AIC VBCS to create a UI, then call Process Orders Web Service."
-            },
-            {
-                "number": "700",
-                "filename": "ics700.md",
-                "title": "Lab 700: Add VBCS logic to Trigger Approval Workflow",
-                "description": "In this Lab we are going to use AIC VBCS to invoke Approval Workflow when a Declined Order is returned from Web Service call"
-            },
-            {
-                "number": "800",
-                "filename": "ics800.md",
-                "title": "Lab 800: API Management Lab, Add Process Order web service to APIPCS",
-                "description": "In this Lab we are going to use APIPCS to add an API for Process Orders Web Service and secure the API using Policies."
-            },
-            {
-                "number": "900",
-                "filename": "ics900.md",
-                "title": "Lab 900: Integration Analytics Implementation",
-                "description": "In this Lab we are going to implement an Integration Analytics Model with Milestones for Process Orders Integration Flow."
+                "title": "Lab 600: Add VBCS Screen to Trigger Process Order Web Service via Workflow ",
+                "description": "In this Lab we are going to use AIC VBCS to create a UI, call the Process, Approve the order, then call Process Orders Web Service."
             }
         ]
     }
