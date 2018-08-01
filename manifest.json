@@ -30,13 +30,13 @@
             {
                 "number": "300",
                 "filename": "ics300.md",
-                "title": "Lab 300: Database Integration",
+                "title": "Lab 300: On Premise Oracle Database Integration",
                 "description": "In this Lab we are going to develop an integration into an on-premesis backend database system using an OIC Integration orchestration."
             },
             {
                 "number": "400",
                 "filename": "ics400.md",
-                "title": "Lab 400: EBS Integration",
+                "title": "Lab 400: On Premise EBS Integration",
                 "description": "In this Lab we are going to create an integration into an on-premesis backend EBS system using an OIC Integration orchestration."
             },
             {
@@ -48,14 +48,14 @@
             {
                 "number": "600",
                 "filename": "ics600.md",
-                "title": "Lab 600: Add ABCS Screen to Trigger Process Order Web Service",
-                "description": "In this Lab we are going to use AIC ABCS to create a UI, then call Process Orders Web Service."
+                "title": "Lab 600: Add VBCS Screen to Trigger Process Order Web Service",
+                "description": "In this Lab we are going to use AIC VBCS to create a UI, then call Process Orders Web Service."
             },
             {
                 "number": "700",
                 "filename": "ics700.md",
-                "title": "Lab 700: Add ABCS logic to Trigger Approval Workflow",
-                "description": "In this Lab we are going to use AIC ABCS to invoke Approval Workflow when a Declined Order is returned from Web Service call"
+                "title": "Lab 700: Add VBCS logic to Trigger Approval Workflow",
+                "description": "In this Lab we are going to use AIC VBCS to invoke Approval Workflow when a Declined Order is returned from Web Service call"
             },
             {
                 "number": "800",
